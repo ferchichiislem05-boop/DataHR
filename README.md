@@ -271,7 +271,7 @@ hr-analytics/
 ## Quick Start
 
 ```bash
-git clone https://github.com/ferchichiislem05-boop/hr-analytics.git
+git clone https://github.com/ferchichiislem05-boop/DataHR.git
 cd hr-analytics
 pip install -r requirements.txt
 
