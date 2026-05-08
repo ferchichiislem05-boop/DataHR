@@ -1,0 +1,8 @@
+tenure_band,headcount,attritions,attrition_rate_pct
+1yr,14,1,7.14
+2yr,50,4,8.0
+3yr,26,13,50.0
+4yr,26,9,34.62
+5yr,45,23,51.11
+6+yr,8,3,37.5
+<1yr,2,0,0.0

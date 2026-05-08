@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data — raw files excluded (large / sensitive)
+data/raw/
+*.xlsb
+*.xls
+
+# Keep processed & exports (small CSVs for demo)
+!data/processed/hr_cleaned.csv
+!data/exports/
+
+# Power BI source file (binary, tracked separately)
+*.pbix
+*.pbit
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Claude Code internal
+.claude/
